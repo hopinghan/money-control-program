@@ -9,6 +9,7 @@ private:
 public:
 	Item();
 	Item(string );
+	void setName(string );
 	string getName();
 	void print();
 };
