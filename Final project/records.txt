@@ -1,0 +1,5 @@
+apple apple 99.00 9 5
+pizza banana 100.00 6 9
+н╣кл н╣кл 189.00 6 10
+apple apple 99.00 9 3
+food apple 90.00 8 11
