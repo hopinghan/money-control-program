@@ -1,0 +1,4 @@
+apple apple 99 9 5
+banana banana 100 6 9
+н╣кл н╣кл 189 6 10
+apple apple 99 9 3

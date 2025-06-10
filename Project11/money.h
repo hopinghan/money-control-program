@@ -3,12 +3,12 @@
 
 class Money {
 private:
-    double amount;
+    double money;
 public:
     Money();
     Money(double amt);
     double getAmount() const;
-    void setAmount(double amt);
+    void setAmount(double mon);
 };
 
 #endif

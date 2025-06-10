@@ -1,13 +1,13 @@
 #include "money.h"
 
-Money::Money() : amount(0.0) {}
+Money::Money() : money(0.0) {}
 
-Money::Money(double amt) : amount(amt) {}
+Money::Money(double amt) : money(amt) {}
 
 double Money::getAmount() const {
-    return amount;
+    return money;
 }
 
 void Money::setAmount(double amt) {
-    amount = amt;
+    money = amt;
 }
