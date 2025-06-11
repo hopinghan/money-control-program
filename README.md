@@ -39,4 +39,15 @@
 * 解壓縮
 * 打開exe檔 即可使用
 ## 程式圖片
+### 一開始的畫面
 ![GitHub图像](picture/StartMenu.JPG)
+### 輸入時的畫面
+![GitHub图像](picture/step1.JPG)
+### 顯示紀錄
+![GitHub图像](picture/records.JPG)
+### 如何編輯
+![GitHub图像](picture/editRecords.JPG)
+### 編輯畫面
+![GitHub图像](picture/edit.JPG)
+### UML
+![GitHub图像](這裡輸入標題.png)
